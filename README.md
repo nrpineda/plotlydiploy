@@ -9,8 +9,7 @@ through interactive data visualizations along with Plotly for the creation of ch
 
 For this study, biological researcher Roza introduces the public to her field-of-study in the documentation of many bacterial species. 
 
-The website specializes in bacterial species that have the ability to synthesize proteins that taste like beef.
-Partnered with Improbable Beef, a food startup that research candidate’s species. 
+The website specializes in bacterial species that have the ability to synthesize proteins that taste like beef. Partnered with Improbable Beef, a food startup that research for alternative foods other than meat, Roza's laboratory will locate the candidate’s species. 
 
 There is many Laboratories in the U.S. that have successfully synthesized meat through algae, fungi, and microorganisms found in plants, however this partnership its set out to find the elusive bacteria that will provide the perfect taste.
 Roza and the rest of the team launched this study based on the following hypothesis:
