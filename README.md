@@ -7,7 +7,7 @@ through interactive data visualizations along with Plotly for the creation of ch
 
 ## Overview of Study
 
-For this study, biological researcher Roza introduces to her field-of-study in the documentation of many bacterial species. 
+For this study, biological researcher Roza introduces the public to her field-of-study in the documentation of many bacterial species. 
 
 The website specializes in bacterial species that have the ability to synthesize proteins that taste like beef.
 Partnered with Improbable Beef, a food startup that research candidate’s species. 
