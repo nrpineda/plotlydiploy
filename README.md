@@ -1,7 +1,7 @@
 # Plotly & JavaScript
 
 In this project we utilized JavaScript to create a webpage that allows visitors to explore a dataset of Belly Button Diversity
-through interactive data visualizations along with Plotly for the creation of charts that are interactive.
+through interactive data visualizations along with Plotly for the creation of charts that invite to further exploration in this research.
 
 [link to website](https://nrpineda.github.io/plotlydiploy/)
 
