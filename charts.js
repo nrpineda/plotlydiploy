@@ -5,6 +5,7 @@ function init() {
   // Use the list of sample names to populate the select options
   d3.json("samples.json").then((data) => {
     var sampleNames = data.names;
+    console.log(data);
 
     sampleNames.forEach((sample) => {
       selector
@@ -66,7 +67,7 @@ function buildCharts(sample) {
     var resultSample = samples.filter(sampleObj => sampleObj.id == sample);
     console.log(resultSample);
     // Deliverable 3: 1. Create a variable that filters the metadata array for the object with the desired sample number.
-    var resultArray = metadata.filter(sampleObj => sampleObj.id == sample);
+    var resultArray = data.metadata.filter(sampleObj => sampleObj.id == sample);
     console.log(resultArray);
     var result = resultArray[0];
     console.log(result);
@@ -123,7 +124,7 @@ function buildCharts(sample) {
     };
 
     // Deliverable 1: 10. Use Plotly to plot the data with the layout. 
-    Plotly.newplot("bar", barData, barLayout)
+    Plotly.newPlot("bar", barData, barLayout)
 
     // Deliverable 2: 1. Create the trace for the bubble chart.
     var bubbleChart = [{
